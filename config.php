@@ -1,9 +1,9 @@
 <?php 
 
-$dbhost = "sql204.epizy.com"; // Servidor
-$dbuser = "epiz_32866232"; // Usuario
-$dbpass = "AwtFH9s5BSGXB"; // Contraseña
-$dbname = "epiz_32866232_upea2022"; // nombre db
+$dbhost = "localhost"; // Servidor
+$dbuser = "root"; // Usuario
+$dbpass = ""; // Contraseña
+$dbname = "proyectofinal"; // nombre db
 
 
 // Creando conexion.// fuera de uso

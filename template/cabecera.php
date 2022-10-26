@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>VM Motors</title>
+  <title>Proyecto final Upea</title>
 
   
   <!-- Google Font: Source Sans Pro -->
