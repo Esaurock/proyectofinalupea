@@ -7,10 +7,10 @@ $nombre = $_POST["nombre"];
 $ci = $_POST["ci"];
 $cel = $_POST["cel"];
 $dir = $_POST["dir"];
-$usu = $_POST["usuario"];
+$usu = $_POST["usu"];
 $contra = $_POST["contra"];
 
-$sql = "UPDATE `usuario` SET `id_rol`='$i_drol',`nombres`='$nombre',`ci`='$ci',`celular`='$cel',`direccion`='$dir',`usuario`='$usu',`contra`='$contra'WHERE `id_usuario`='$id_usuario' ";
+$sql = "UPDATE `usuario` SET `id_rol`='$id_rol',`nombre_completo`='$nombre',`ci`='$ci',`celular`='$cel',`direccion`='$dir',`usuario`='$usu',`contra`='$contra'WHERE `id_usuario`='$id_usuario' ";
 
 
 $query = mysqli_query($link,$sql);
