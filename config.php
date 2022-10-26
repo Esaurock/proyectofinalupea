@@ -1,8 +1,8 @@
 <?php 
 
-$dbhost = "https://databases.000webhost.com/"; // Servidor
+$dbhost = "localhost"; // Servidor
 $dbuser = "id19769254_proyectofinalupea"; // Usuario
-$dbpass = "k\_mt9%ej6h-r]NM"; // Contraseña
+$dbpass = "^&MTOlnJ9W!>WOCU"; // Contraseña
 $dbname = "id19769254_postgradoupea"; // nombre db
 
 
